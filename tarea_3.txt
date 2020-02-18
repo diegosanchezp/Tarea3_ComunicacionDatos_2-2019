@@ -1,0 +1,51 @@
+Universidad Central de Venezuela
+Facultad de Ciencias
+Escuela de Computación
+Licenciatura en Computación
+Comunicación de Datos
+Plan de estudios 2000
+Componente Básico
+
+Tarea 3: La SneakerNet, o ¿que tan Alto será el Ancho de Banda de FedEx?
+
+``Nunca subestime el ancho de banda de una camioneta repleta de cintas que va
+  a toda velocidad por la carretera.''
+
+Andrew S. Tanenbaum
+
+Una de las tradiciones más llamativas de la IETF es la costumbre de redactar
+y publicar estándares de Internet humorísticos todos los años durante el
+primero de abril, cuando se celebra el Día de los Inocentes en Estados Unidos.
+Es debatible, pero posiblemente el más conocido de estos estándares humorísticos
+es el publicado en el RFC-1149, disponible en https://tools.ietf.org/html/rfc1149,
+titulado ``Un Estándar para la Transmisión de Datagramas IP sobre Aves Portadoras'',
+y el relacionado RFC-2549 (en https://tools.ietf.org/html/rfc2549) que agrega
+consideraciones de calidad de servicio al estándar original.
+
+Sin embargo, el que estos RFC hayan sido escritos en broma no ha detendo a varios
+grupos de probar implementaciones reales del estándar. Por ejemplo los siguientes
+enlaces https://www.blug.linux.no/rfc1149/, http://news.bbc.co.uk/2/hi/africa/8248056.stm
+y https://www.youtube.com/watch?v=ci2bFFGM8T8 contienen implementaciones y referencias
+al RFC. De hecho, el RFC-1149 es una variante humorística del concepto de SneakerNet,
+que consiste en la transmisión de grandes volúmenes de datos mediante mensajería
+convencional o incluso a pie. El nombre SneakerNet se refiere a una red basada zapatos
+de tipo sneaker.
+
+1. Actividad
+
+Para esta tarea se desea que escriba un breve reporte de a lo sumo dos páginas
+donde consteste las siguientes preguntas:
+
+
+  1. Investigue sobre el concepto de SeakerNet, indique que es y busque dos
+     ejemplos de su uso a nivel industrial.
+  2. Lea el artículo titulado ``FedEx Bandwith'' de Randall Munroe, disponible
+     en https://what-if.xkcd.com/31/ y realice un breve resumen (máximo 2
+     párrafos) de su contenido.
+
+La entrega de esta tarea es estrictamente individual. Las copias serán penalizadas
+con la nota mínima para todos los involucrados. Debe eviar su informe a
+miguel.astor@ciens.ucv.ve a más tardar el día 21 de febrero a las 11:59 PM.
+
+
+GDCD 2-2019
