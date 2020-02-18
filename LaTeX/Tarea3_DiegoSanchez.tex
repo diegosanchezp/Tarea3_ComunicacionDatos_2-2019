@@ -1,0 +1,57 @@
+%LATEX BOILERPLATE TEMPLATE
+\documentclass[11pt]{article}
+
+%PAQUETES
+\usepackage{amsfonts,amsmath,amssymb}   % need for subequations
+\usepackage{amsmath,latexsym}
+\usepackage{graphics,color}
+\usepackage{graphicx}
+\usepackage[most]{tcolorbox}            %HIGLIGTH COLOR BOXES
+\usepackage{hyperref}                   %Web URLS
+\usepackage[utf8]{inputenc}             %Spanish language support
+\usepackage{authblk}                    %Multiples autores
+%MARGIN
+\setlength\topmargin{-0.5in}
+\addtolength\oddsidemargin{-0.5in}
+\setlength{\textheight}{23cm}
+\setlength{\textwidth}{16cm}
+
+%VARIABLES
+\newcommand{\N}{\mathbb N}
+\newcommand{\Z}{\mathbb Z}
+\newcommand{\R}{\mathbb R}
+\newcommand{\C}{\mathbb C}
+
+%VARIABLES COLORES
+\newcommand{\rojo}[1]{\textcolor[rgb]{1.00,0.00,0.00}{#1}}
+\newcommand{\azul}[1]{\textcolor[rgb]{0.00,0.00,1.00}{#1}}
+\newcommand{\verde}[1]{\textcolor[rgb]{,,}{#1}}
+%CAJAS DE COLOR
+
+%HEADER METADATA
+\author[1]{Diego Sánchez}
+\title{Tarea 3: La SneakerNet}
+
+\affil[1]{Comunicación de datos}
+\affil[1]{Escuela de computacion}
+\begin{document}
+    \maketitle
+    \section{Concepto SneakerNet}
+    
+    \textbf{SneakerNet} es término para utlizado para la transmisión de datos de forma física o personal, es decir, sin utilizar el internet o cualquier tipo de red como LAN, WAN, entre otras. La ídea de este método es que alguien utilize un tipo de medio de almacenamiento masivo como un pendrive USB y se lo entregue a otra persona caminando utilizando probablemente sus zapatos deportivos \textit{sneakers}. 
+    
+    Necesariamente la transferencia de datos no tiene que ser de una persona a otra persona caminando, si no, que se puede hacer también por otro medio de transporte como por ejemplo una camioneta o un avión, para que sea más rápida.
+    
+    Las \textbf{SneakerNets} pueden ser utilizadas cuando la transmisión de datos por una red es muy lenta, entonces para transmitir los datos es más práctico hacerlo por un medio de transporte físico. Adicionalmente se puede dar el caso en donde la red que se utilza, es vulnerable a ataques ciberneticos y es más seguro transportarlo de manera física, o simplemente puede existir una red que transporte los datos de manera eficiente pero tiene un alto costo de uso o mantenimiento y la manera menos costosa es nuevamente, transportarlo por algunos de los medios de transporte físicos mencionados anteriormente.
+    \subsection{Ejemplos}
+    \begin{enumerate}
+        \item Sobre el ejemplo 1 
+        \item Sobre el ejemplo 2
+    \end{enumerate}
+    
+    \section{Resumen FedEx Bandwith}
+    %===============================================================================
+    % AQUI ESTA LA SECCCION DE LAS REFERENCIAS
+    \bibliographystyle{plain}
+    \bibliography{refs} %VEAN QUE AQUI SE COLOCA EL NOMBRE DEL ARCHIVO .BIB
+\end{document}
